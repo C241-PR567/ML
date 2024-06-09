@@ -1,0 +1,1 @@
+https://www.kaggle.com/datasets/umairshahab/dermnet-skin-diesease-images?select=dataset_categorized_final_split
